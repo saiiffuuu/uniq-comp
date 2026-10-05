@@ -22,3 +22,4 @@ Then open `http://localhost:8000`. You can also use `npm start`.
 - The inquiry form opens a prefilled email only after an email address is configured. It does not store submissions or send data to a server.
 - Add the company's real social profile links in the footer when supplied.
 # uniq-comp
+# uniq-comp
